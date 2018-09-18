@@ -1,0 +1,5 @@
+﻿The project was build with the help of next resources:
+http://mathparser.org/, https://github.com/mariuszgromada/MathParser.org-mXparser
+https://github.com/benoit74/nzy3d-api 
+https://github.com/ZedGraph/ZedGraph
+http://all-free-download.com/free-icon/download/finance-icons-set-icons-pack_120703.html
